@@ -11,3 +11,4 @@ State management demo for React components
 - hooks: [https://react.dev/learn#using-hooks [ ↗ ] ](https://react.dev/learn#using-hooks)
 - useState: [https://react.dev/reference/react/useState#usestate [ ↗ ] ](https://react.dev/reference/react/useState#usestate)
 - forms: [https://react.dev/reference/react-dom/components/form [ ↗ ] ](https://react.dev/reference/react-dom/components/form)
+- Netlify: [https://react-forms-app-act2-gallegoooo.netlify.app/ [ ↗ ] ](https://react-forms-app-act2-gallegoooo.netlify.app/)
